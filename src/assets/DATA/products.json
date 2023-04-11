@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Xbox Series S - Gilded Hunter Bundle",
+        "desc": "Xbox Series S - Gilded Hunter Bundle featuring nine in-game cosmetics and virtual currency for Fortnite, Rocket League, and Fall Guys.",
+        "price": 27499,
+        "image": "https://m.media-amazon.com/images/I/717JafCjCAL._SL1500_.jpg",
+        "ratings": 5
+    },
+    {   
+        "id": 2,
+        "title": "PS5 - God of War Ragnarök Bundle",
+        "desc": "Bundle includes: PlayStation 5 console, DualSense Wireless Controller, Base, HDMI Cable, AC power cord, USB cable, God of War Ragnarok full game voucher.",
+        "price": 59390,
+        "image": "https://m.media-amazon.com/images/I/71zCErCYVXL._SL1500_.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 3,
+        "title": "Nintendo Switch - Mario Kart 8 Bundle", 
+        "desc": "This bundle includes the Nintendo Switch system and Nintendo Switch dock in black, Red Joy-Con controllers, and Mario Kart 8 Deluxe.",
+        "price": 28600,
+        "image": "https://m.media-amazon.com/images/I/714vszIBgpL._SL1500_.jpg",
+        "ratings": 5
+    }
+]

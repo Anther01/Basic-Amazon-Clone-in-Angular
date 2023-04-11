@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mywebsite-442b6": {
+      "hosting": {
+        "amazon-clone": [
+          "mywebsite-442b6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mywebsite-442b6"
+  }
+}
